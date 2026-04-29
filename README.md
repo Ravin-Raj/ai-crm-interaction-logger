@@ -184,7 +184,7 @@ Create environment file:
 Add:
 
 ```
-GROQ_API_KEY=your_groq_api_key
+GROQ_API_KEY=api_key
 ```
 
 Run backend server:
@@ -300,26 +300,6 @@ Example response:
  }
 ]
 ```
-
----
-
-# 📷 Screenshots
-
-Add screenshots here after uploading images.
-
-Example sections:
-
-### CRM Interaction Form
-
-![CRM Form Screenshot](screenshots/form.png)
-
-### AI Assistant Chat
-
-![AI Chat Screenshot](screenshots/chat.png)
-
-### Interaction History Table
-
-![History Screenshot](screenshots/history.png)
 
 ---
 
